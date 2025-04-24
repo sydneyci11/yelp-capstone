@@ -1,3 +1,4 @@
+![cover](./cover.png)
 # 📊 Yelp Restaurant Review Analysis
 
 This project presents a multi-layered analysis of Yelp restaurant reviews from Las Vegas, focusing on identifying user behavior trends and sentiment-based insights.
